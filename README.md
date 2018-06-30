@@ -37,7 +37,7 @@ Between these tags is where we want to write our inline jQuery. The script tags 
 
 And now, in between the script tags, add the following code:
 
-```js
+```js   
 $("#yo").append("hey hey hey hey!!!!!");
 ```
 
